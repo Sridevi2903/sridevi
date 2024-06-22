@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    padding: 100px;
+}
+div{
+    padding: 10px;
+    height: 300px;
+    width: 450px;
+    background-color: rgb(211, 219, 198);
+}
+button{
+    background-color: rgb(245, 218, 184);
+
+}
+div:hover{
+    box-shadow: 2px 2px 30px 2px  rgb(244, 189, 189);;
+}
+button:hover{
+    background-color: skyblue;
+    box-shadow: 1px 1px 10px 1px;
+}
+input:hover{
+    background-color: rgba(190, 239, 252, 0.436);
+    border-radius: 4px;
+}
