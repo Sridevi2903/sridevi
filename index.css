@@ -1,0 +1,45 @@
+
+button{
+
+    background-color: rgb(201, 220, 243);
+}
+button:hover{
+    
+    background-color: rgb(193, 217, 156);
+    box-shadow: 1px 1px 10px 1px;
+    
+
+}
+div.sonu{
+    height: fit-content;
+    width: fit-content;
+}
+div.sonu:hover{
+    box-shadow: 2px 2px 20px 2px rgb(161, 102, 112);
+
+
+    
+}
+h1{
+    color: white;
+    width: fit-content;
+    padding: 5px;
+}
+header{
+    background-color: rgb(214, 96, 147);
+    height: 100px;
+    width: 1500px;
+    padding: 10px;
+    overflow: wrap;
+}
+h2{
+    color: rgb(35, 87, 33);
+
+}
+h2:hover{
+    box-shadow: rgb(43, 107, 135);
+    border-radius: 2px 2px 20px 2px ;
+}
+ul{
+    color: rgb(251, 5, 156);
+}
